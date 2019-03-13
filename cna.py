@@ -23,3 +23,9 @@ for n in target:
     for c in content:
         print(c.text)
     print('=' * 15)
+    with open('corpus/%s.txt' % title[0].text, 'w') as fw:
+        fw.write('Titile: %s\n' % title[0].text)
+        fw.write('Time: %s\n' % time[0].text)
+        fw.write('Content: \n')
+        for c in content:
+            fw.write(c.text)
