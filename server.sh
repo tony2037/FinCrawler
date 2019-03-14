@@ -1,4 +1,4 @@
-while [1]
+while :
 do
     time make cna
     sleep 1h
