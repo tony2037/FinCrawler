@@ -1,4 +1,0 @@
-Titile: 高通環旭合資企業赴巴西設封裝廠 2020年投產
-Time: 2019/03/14 11:06
-Content: 
-（中央社記者張建中新竹14日電）高通(Qualcomm)與環旭電子合資成立的企業Semicondutores Avancadosdo Brasil S. A.宣布，將在巴西聖保羅州的Jaguariuna設置系統封裝(SiP)廠，預計2020年投產。華碩今天在巴西聖保羅發表智慧型手機ZenFone Max Shot和ZenFone Max Plus (M2)，是專為巴西消費者打造的智慧手機，也是首批採用高通Snapdragon SiP1的智慧手機。高通指出，Snapdragon SiP是將應用處理器、電源管理、射頻前端和音訊轉碼器等Snapdragon行動平台常見的零組件整合至單一半導體SiP，為相機或電池等附加零件提供更多空間，並讓裝置外觀能更加輕薄。除協助簡化終端裝置的工程和製造流程，高通表示，這些產品設計也將為代工廠和物聯網裝置製造商節省成本和開發時間。高通與環旭合資企業Semicondutores Avancadosdo Brasil S. A.宣布，Snapdragon SiP工廠將落腳聖保羅州的Jaguariuna，預計2020年投產，將召募800至1000名員工，5年內將投資2億美元。（編輯：郭萍英）1080314
